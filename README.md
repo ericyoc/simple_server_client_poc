@@ -7,6 +7,8 @@ A. Sidhardhan, K. S and J. M. Kannimoola, "Weaponizing Real-world Applications a
 
 URLhaus https://urlhaus.abuse.ch/statistics
 
+Joe Sandbox https://www.joesandbox.com/analysispaged/0
+
 Any.Run https://any.run/malware-trends/
 
 ## Server-Client Communication
