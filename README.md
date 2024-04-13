@@ -13,6 +13,8 @@ Joe Sandbox https://www.joesandbox.com/analysispaged/0
 
 Any.Run https://any.run/malware-trends/
 
+Triage https://tria.ge/reports/public
+
 ## Server-Client Communication
 In a typical C2 scenario, the malware acts as a client that establishes a connection with a remote server controlled by the attacker. The server listens for incoming connections and sends commands to the connected clients. The clients execute these commands and send back the results to the server.
 
