@@ -13,6 +13,8 @@ Joe Sandbox https://www.joesandbox.com/analysispaged/0
 
 Any.Run https://any.run/malware-trends/
 
+Intezer Analyze https://analyze.intezer.com/scan
+
 Triage https://tria.ge/reports/public
 
 ## Server-Client Communication
