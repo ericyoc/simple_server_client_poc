@@ -50,3 +50,7 @@ Understanding C2 communication is crucial for several reasons:
 Command and Control communication is a fundamental aspect of malware operations. By understanding the basic concepts of server-client communication and how malware utilizes it for C2, security professionals can better analyze, detect, and defend against malicious activities. The provided code serves as a simple example to illustrate the underlying principles of C2 communication.
 
 It's important to note that real-world malware often employs more sophisticated techniques, such as encryption, obfuscation, and resilient communication channels, to evade detection and maintain control over compromised systems. Continuous research and analysis of C2 techniques are necessary to stay ahead of evolving threats.
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
