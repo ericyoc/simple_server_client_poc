@@ -24,6 +24,8 @@ Intezer Analyze https://analyze.intezer.com/scan
 
 Triage https://tria.ge/reports/public
 
+Malware Traffic Analysis (pcap and malware) https://www.malware-traffic-analysis.net/
+
 ## People
 https://www.thecyberyeti.com/
 
