@@ -6,6 +6,9 @@ Command and Control (C2) is a critical component of malware operations. It enabl
 A. Sidhardhan, K. S and J. M. Kannimoola, "Weaponizing Real-world Applications as C2 (Command and Control)," 2023 International Conference on Innovative Data Communication Technologies and Application (ICIDCA), Uttarakhand, India, 2023, pp. 458-463, doi: 10.1109/ICIDCA56705.2023.10100279. https://ieeexplore.ieee.org/abstract/document/10100279
 
 ## Tools
+
+Shodan Search Enginer https://www.shodan.io/
+
 URLhaus https://urlhaus.abuse.ch/browse/
 
 AZORult Tracker https://azorult-tracker.net/
