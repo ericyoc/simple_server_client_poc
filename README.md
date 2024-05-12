@@ -2,8 +2,10 @@
 
 Command and Control (C2) is a critical component of malware operations. It enables attackers to remotely control and communicate with compromised systems, allowing them to execute commands, exfiltrate data, and maintain persistence. Understanding the fundamental concepts of server and client communication is essential for both malware analysts and defenders.
 
-## Motivating Article
+## Motivating Articles
 A. Sidhardhan, K. S and J. M. Kannimoola, "Weaponizing Real-world Applications as C2 (Command and Control)," 2023 International Conference on Innovative Data Communication Technologies and Application (ICIDCA), Uttarakhand, India, 2023, pp. 458-463, doi: 10.1109/ICIDCA56705.2023.10100279. https://ieeexplore.ieee.org/abstract/document/10100279
+
+Bermejo Higuera J, Abad Aramburu C, Bermejo Higuera J-R, Sicilia Urban MA, Sicilia Montalvo JA. Systematic Approach to Malware Analysis (SAMA). Applied Sciences. 2020; 10(4):1360. https://doi.org/10.3390/app10041360
 
 ## Tools
 
